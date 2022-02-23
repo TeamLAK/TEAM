@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def funct(x_0, gamma):
+def functt(x_0, gamma):
     # Проверка на ввод списков 
     if not type(x_0) is list or not type(gamma) is list:
         result = 'Введите списки элементов'
@@ -78,5 +78,5 @@ def funct(x_0, gamma):
     print(result)
     return result
 
-funct(x_0, gamma)
+functt(x_0, gamma)
 
