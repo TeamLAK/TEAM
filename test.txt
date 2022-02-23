@@ -1,0 +1,82 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+def funct(x_0, gamma):
+    # Проверка на ввод списков 
+    if not type(x_0) is list or not type(gamma) is list:
+        result = 'Введите списки элементов'
+        print(result)
+        return result
+
+    x_0_len = len(x_0)  # длина списка x0
+    gamma_len = len(gamma)  # длина списка параметров масштаба
+
+    # проверка на размерность
+    if x_0_len == 0:
+        result = 'Размерность списка x_0 равна нулю'
+        print(result)
+        return result
+    
+    if gamma_len == 0:
+        result = 'Размерность списка gamma равна нулю'
+        print(result)
+        return result
+
+    if x_0_len == gamma_len:
+        length = x_0_len
+    else:
+        result = 'Размерности списков различаются'
+        print(result)
+        return result
+
+    for elem in x_0:
+        # проверка на ввод списка чисел
+        if not (type(elem) is int or type(elem) is float):
+            result = 'Введите список чисел x0'
+            print(result)
+            return result
+
+    for elem in gamma:
+        if not (type(elem) is int or type(elem) is float):
+            result = 'Введите список чисел gamma'
+            print(result)
+            return result
+        # проверка на ввод чисел
+        if elem < 0:
+            result = 'Масштаб должен быть больше 0'
+            print(result)
+            return result
+        else:
+            continue
+
+    x = np.linspace(-5.0, 5.0, 1000)  # задаём линейное пространство для x от -5 до 5
+
+    sp = plt.subplot()  # оси
+
+    for i in range(length):
+        # формула плотности распределения случайной ве-личины по закону Коши
+        y = 1 / np.pi * (gamma[i] / ((x - x_0[i])**2+gamma[i]**2)) 
+
+        sp.plot(
+            x,
+            y,
+            linewidth = 3,
+            label=f"x0 = {x_0[i]}, y = {gamma[i]}"
+        )
+
+    sp.xaxis.set_ticks(list(np.arange(-5, 6, 1))) 
+    sp.yaxis.set_ticks(list(np.arange(0, 0.8, 0.1)))
+    plt.title('Плотность распределения случайной величи-ны по закону Коши')
+    plt.xlabel('OX')  # ось x
+    plt.ylabel('OY')  # ось y
+    plt.grid()  # отрисовка сетки
+    plt.legend()  # легенда графика
+    plt.show()  # отображение всего вышеописанного
+
+    result = 'График построен'
+    print(result)
+    return result
+
+funct(x_0, gamma)
+
