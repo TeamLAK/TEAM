@@ -1,0 +1,203 @@
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"2px","right":"0px","bottom":"0px","left":"0px"}},"color":{"background":"#f1f1f1"}}} -->
+<div class="wp-block-columns has-background" style="background-color:#f1f1f1;padding-top:2px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:site-title {"isLink":false} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right","orientation":"horizontal","flexWrap":"nowrap"},"style":{"spacing":{"blockGap":"1px"}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","right":"20px","bottom":"2px","left":"20px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=2&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:20px;padding-bottom:2px;padding-left:20px">Главная</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"25px","bottom":"2px","left":"25px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=37&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:25px;padding-bottom:2px;padding-left:25px">Тесты</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"12px","bottom":"2px","left":"12px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/wp-admin/post.php?post=71&amp;action=edit" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Материалы</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","topRight":"0px","bottomLeft":"0px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","bottom":"2px","left":"12px","right":"12px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" style="border-top-left-radius:90px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Контакты</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:quote {"className":"is-style-default","style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
+<blockquote class="wp-block-quote is-style-default" style="font-style:italic;font-weight:400"><p>"Государю нет необходимости обладать всеми добродетелями, но есть прямая необходимость выглядеть обладающим ими."</p><cite>Никколо Макиавелли</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":98,"mediaLink":"http://localhost/historyTest/?attachment_id=98","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/KNYAZRURIK.jpg" alt="" class="wp-image-98 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9">Рюрик (862 - 879)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">Новгородский князь, прозванный Варяжским, так как призван был княжить новгородцами из-за Варяжского моря.&nbsp;<a href="https://ote4estvo.ru/stanovlenie-russkoj-gosudarstvennosti/1367-dinastiya-ryurikovichey.html">Рюрик</a>&nbsp;является основателем династии Рюриковичей. Был женат на женщине по имени Эфанда, в браке с которой у него имелся сын по имени Игорь. Также воспитывал дочь и пасынка Аскольда. После того, как два его брата умерли, стал единоличным правителем страны. Все окрестные селенья и посады он отдал в управление своим приближенным, где те имели право самостоятельно творить суд. Приблизительно в это время Аскольд и Дир, два брата, которые никак не были связаны с Рюриком родственными связями, заняли город Киев и стали править полянами.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":101,"mediaLink":"http://localhost/historyTest/?attachment_id=101","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/Knyaginya-Olga-01-1.jpg" alt="" class="wp-image-101 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Ольга (945 – 957)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">Ольга была женой князя Игоря. Она, согласно обычаям того времени, весьма жестоко отомстила древлянам за убийство своего мужа, а также покорила главный город древлян – Коростень. Ольга отличалась очень хорошими способностями к правлению, а также блестящим, острым умом. Уже на закате своей жизни, в Константинополе приняла христианство, за что впоследствии была причислена к лику святых и названа Равноапостольной.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":103,"mediaLink":"http://localhost/historyTest/?attachment_id=103","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/NEVSKY.jpg" alt="" class="wp-image-103 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Александр Невский (1252 – 1263)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Будучи вначале Новгородским князем, Александр Ярославович в 1240 году разбил шведов на реке Неве, за что, собственно и был назван Невским. Затем, спустя два года, он разбил немцев в знаменитом Ледовом побоище. Помимо всего прочего, Александр весьма успешно воевал с чудью и Литвой. От Орды он получил ярлык на Великое княжение и стал для всего русского народа великим заступником, так как четырежды ездил в Золотую Орду с богатыми дарами и поклонами.&nbsp;<a href="https://ote4estvo.ru/praviteli-x-xiv-vv/35-aleksandr-nevskij.html">Александр Невский</a>&nbsp;был впоследствии причислен к лику святых.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":104,"mediaLink":"http://localhost/historyTest/?attachment_id=104","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/grozny.jpg" alt="" class="wp-image-104 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Иоанн Четвертый (Грозный) (1538 – 1584)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">Иоанн Четвертый, князь Всея Руси стал в 1547-ом первым русским царем. С конца сороковых годов правил страной при участии Избранной Рады. Во время его правления начался созыв всех Земских соборов. В 1550-ом был составлен новый Судебник, а также произведены реформы суда и управления (Земская и Губная реформы).&nbsp;<a href="https://ote4estvo.ru/sobytiya-xvi-xviii/1389-vneshnyaya-politika-ivana-groznogo.html">Иоанн Васильевич</a>&nbsp;покорил в 1552-ом году Казанское ханство, а в 1556-ом – Астраханское. В 1565 для укрепления самодержавия была введена опричнина. При Иоанне Четвертом были налажены торговые связи с Англией в 1553 году, а также открылась первая в Москве типография. С 1558 по 1583 продолжалась Ливонская война за выход к Балтийскому морю. В 1581-ом году началось присоединение Сибири. Вся внутренняя политика страны при царе Иоанне сопровождалась опалами и казнями, за что его в народе и прозвали Грозным. Значительно усилилось закрепощение крестьян.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":105,"mediaLink":"http://localhost/historyTest/?attachment_id=105","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/LDmitry.jpg" alt="" class="wp-image-105 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Лжедмитрий (1605 – 1606)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Беглый монах Григорий Отрепьев, которого поддерживали поляки, объявил себя царем Дмитрием, которому чудом удалось спастись от душегубов в Угличе. Он вступил в Россию с несколькими тысячами человек. Ему навстречу выступило войско, но и оно перешло на сторону Лжедмитрия, признав в нем законного царя, после чего Федор Годунов был убит. Лжедмитрий был человеком весьма добродушным, но с острым умом, он с усердием занимался всеми государственными делами, но вызвал неудовольствие духовенства и бояр, от того, что, на их взгляд, недостаточно чтил старые русские обычаи, а многими, так и вовсе пренебрегал. Вместе с Василием Шуйским бояре вступили в заговор против Лжедмитрия, распустили слух о том, что он есть самозванец, а после, ничтоже сумняшеся, убили ненастоящего царя.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":106,"mediaLink":"http://localhost/historyTest/?attachment_id=106","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/ekaterina1.png" alt="" class="wp-image-106 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Екатерина Первая (1725 – 1727)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"14px"}}} -->
+<p class="has-text-align-left" style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Петр Первый умер, не оставив завещания. Так, престол перешел к его жене Екатерине. Екатерина прославилась тем, что снарядила Беринга в кругосветное путешествие, а также учредила Верховный тайный совет по наущению друга и соратника ее покойного супруга Петра Великого – князя Меньшикова. Таким образом, Меньшиков сосредоточил в своих руках фактически всю государственную власть. Он уговорил Екатерину наследником престола назначить сына царевича Алексея Петровича, которому еще его отец, Петр Первый, вынес смертный приговор за испытываемое отвращение к реформам - Петра Алексеевича, а также дать согласие на его брак с дочерью Меньшикова Марией. До совершеннолетия Петра Алексеевича правителем России был назначен князь Меньшиков.&nbsp;</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":107,"mediaLink":"http://localhost/historyTest/?attachment_id=107","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/Peter1.png" alt="" class="wp-image-107 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Петр Первый (Великий) (1682 – 1725)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">Величайший царь, а с 1721-го первый российский император, государственный, культурный и военный деятель. Произвел в стране революционные реформы: были созданы коллегии, Сенат, органы политического сыска и государственного контроля. Произвел деления в России на губернии, а также подчинил церковь государству. Построил новую столицу – Санкт - Петербург. Основной мечтой Петра была ликвидация отсталости России в развитии по сравнению с европейскими странами. Воспользовавшись западным опытом,&nbsp;<a href="https://ote4estvo.ru/cari-i-imperatory-xvi-xviii/108-petr-i.html">Петр Алексеевич</a>&nbsp;неустанно создавал мануфактуры, заводы, верфи.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp; Для облегчения торговли и за выход в Балтийское море выиграл у Швеции Северную войну, длящуюся 21 год, «прорубив» тем самым «окно в Европу». Построил для России огромный флот. Благодаря его стараниям в России была открыта Академия Наук и принята гражданская азбука. Все реформы проводились жесточайшими методами и вызвали в стране множественные восстания (Стрелецкое в 1698, Астраханское с 1705 по 1706, Булавинское с 1707 по 1709), которые, впрочем, так же беспощадно и подавлялись.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":108,"mediaLink":"http://localhost/historyTest/?attachment_id=108","mediaType":"image","mediaWidth":23} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/annaIoanovna.png" alt="" class="wp-image-108 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Анна Иоанновна (1730 – 1740)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Верховным тайным советом было принято решение несколько ограничить самодержавие, потому в качестве императрицы они выбрали Анну Иоанновну, вдовствующую герцогиню Курляндскую, дочь Иоанна Алексеевича. Но она короновалась на российском престоле самодержавной императрицей и, первым делом, вступив в права, уничтожила Верховный тайный совет. Она заменила его Кабинетом и вместо русских вельмож раздала должности немцам Остерну и Миниху, а также курляндцу Бирону. Жестокое и несправедливое правление было впоследствии названо «биронщиной».</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Вмешательство России во внутренние дела Польши в 1733 году обошлись стране дорого: завоеванные Петром Первым земли пришлось вернуть Персии. Перед смертью императрица назначила своим наследником сына своей племянницы Анны Леопольдовны, а регентом при младенце определила Бирона. Однако, Бирона свергли в скором времени, и императрицей стала Анна Леопольдовна, чье правление нельзя назвать долгим и славным. Гвардейцы устроили переворот и провозгласили императрицей Елизавету Петровну, дочь Петра Великого.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":109,"mediaLink":"http://localhost/historyTest/?attachment_id=109","mediaType":"image","mediaWidth":23,"verticalAlignment":"center"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/ekatvtor.png" alt="" class="wp-image-109 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Екатерина Вторая (1762 – 1796)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Время ее правление было одним из величайших после царствования Петра Первого. Императрица Екатерина правила жестко, подавила крестьянское восстание Пугачева, выиграла две Турецкие войны, результатом которых было признание независимости Крыма Турцией, а также России отошел берег Азовского моря. У России появился Черноморский флот, а в Новороссии началось активное строительство городов. Екатерина Вторая учредила коллегии просвещения и медицины. Открылись кадетские корпуса, а для обучения девиц – Смольный институт. Екатерина Вторая, сама обладая литературными способностями, покровительствовала литературе.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:media-text {"mediaId":110,"mediaLink":"http://localhost/historyTest/?attachment_id=110","mediaType":"image","mediaWidth":23,"verticalAlignment":"center"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/nikolayPerviy.png" alt="" class="wp-image-110 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong>Николай Первый (1825 – 1855)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Продолжил политику улучшения крестьянской жизни. Основал в Киеве институт Святого Владимира. Издал 45-томный полный сборник законов Российской империи. При Николае Первом в 1839-ом году произошло воссоединение униатов с православием. Это воссоединение было следствием подавления восстания в Польше и полное уничтожение польской конституции. Велась война с турками, которые угнетали Грецию, в результате победы России, Греция получила независимость. После разрыва отношений с Турцией, на сторону которой встали Англия, Сардиния и Франция, России пришлось включиться в новую борьбу.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":111,"mediaLink":"http://localhost/historyTest/?attachment_id=111","mediaType":"image","mediaWidth":23,"verticalAlignment":"center"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img src="http://localhost/historyTest/wp-content/uploads/2022/04/nikolayVtoroy.png" alt="" class="wp-image-111 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.9"}},"backgroundColor":"primary","textColor":"tertiary"} -->
+<p class="has-tertiary-color has-primary-background-color has-text-color has-background" style="line-height:0.9"><strong><strong>Николай Второй (1896 – 1917)&nbsp;&nbsp;</strong></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">Николай Александрович Романов (будущий российский император Николай II) родился&nbsp; 18 мая 1868 года в Царском селе. 26 мая 1896 года состоялась коронация Николая II. А 30 мая на народных гуляниях на Ходынском поле, организованных в честь коронации, произошла давка, которая сопровождалась гибелью большого количества людей из-за массовых скоплений народа. За это, а также за расстрел мирной демонстрации в январе 1905 года Николай получил прозвище «Кровавый». Царствование Николая II пришлось на пору бурного экономического развития России и роста социально-политических противоречий, вылившихся в смуту 1905–1907 годов и революцию 1917 года. Во внешней политике Россия продолжала экспансию на восток, участвовала в блоках европейских держав, войне с Японией и Первой мировой войне. При Николае II в 1897 году была впервые проведена всеобщая перепись населения России, сельскохозяйственные реформы с разрушением крестьянской общины (их автором был премьер-министр П.А. Столыпин), впервые созван выборный законодательный орган – Государственная Дума. После Февральской революции 1917 года Николай II отрекся от престола, и вскоре в России началась гражданская война. Николай был арестован, сначала находился в Сибири. Когда к власти пришли большевики, он был отправлен на Урал и расстрелян в Ипатьевском доме в Екатеринбурге вместе со всей своей семьей 17 июля 1918 года.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"align":"center","style":{"spacing":{"padding":{"right":"200px","left":"200px"}},"border":{"radius":"10px"}}} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=8&amp;preview=true" style="border-radius:10px;padding-right:200px;padding-left:200px">Перейти к тестированию</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
