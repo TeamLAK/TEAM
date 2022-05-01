@@ -1,0 +1,71 @@
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"2px","right":"0px","bottom":"0px","left":"0px"}},"color":{"background":"#f1f1f1"}}} -->
+<div class="wp-block-columns has-background" style="background-color:#f1f1f1;padding-top:2px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:site-title {"isLink":false} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right","orientation":"horizontal","flexWrap":"nowrap"},"style":{"spacing":{"blockGap":"1px"}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","right":"20px","bottom":"2px","left":"20px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=2&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:20px;padding-bottom:2px;padding-left:20px">Главная</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"25px","bottom":"2px","left":"25px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=37&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:25px;padding-bottom:2px;padding-left:25px">Тесты</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"12px","bottom":"2px","left":"12px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/wp-admin/post.php?post=71&amp;action=edit" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Материалы</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","topRight":"0px","bottomLeft":"0px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","bottom":"2px","left":"12px","right":"12px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" style="border-top-left-radius:90px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Контакты</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Проверь свои знания</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#ebf2f2"}}} -->
+<p class="has-background" style="background-color:#ebf2f2">Здесь вы можете выбрать один из трех вариантов тестирования, каждый из которых представляет собой набор вопросов различной категории: Правители, Литература и поэзия, Искусство.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}}},"className":"is-style-fill","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-small-font-size"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=8&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px">Великие личности. Правители</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}}},"className":"is-style-fill","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-small-font-size"><a class="wp-block-button__link" style="border-top-left-radius:90px;border-bottom-right-radius:90px">Великие личности. Литература</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}}},"className":"is-style-fill","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-small-font-size"><a class="wp-block-button__link" style="border-top-left-radius:90px;border-bottom-right-radius:90px">Великие личности. Искусство</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:separator {"align":"wide","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide is-style-wide"/>
+<!-- /wp:separator -->
