@@ -1,0 +1,115 @@
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"2px","right":"0px","bottom":"0px","left":"0px"}},"color":{"background":"#f1f1f1"}}} -->
+<div class="wp-block-columns has-background" style="background-color:#f1f1f1;padding-top:2px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:site-title {"isLink":false} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right","orientation":"horizontal","flexWrap":"nowrap"},"style":{"spacing":{"blockGap":"1px"}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","right":"20px","bottom":"2px","left":"20px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=2&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:20px;padding-bottom:2px;padding-left:20px">Главная</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"25px","bottom":"2px","left":"25px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=37&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:25px;padding-bottom:2px;padding-left:25px">Тесты</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","bottomRight":"90px"}},"typography":{"fontSize":"9px"},"spacing":{"padding":{"top":"2px","right":"12px","bottom":"2px","left":"12px"}}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" href="http://localhost/historyTest/?page_id=71&amp;preview=true" style="border-top-left-radius:90px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Материалы</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":{"topLeft":"90px","topRight":"0px","bottomLeft":"0px","bottomRight":"90px"}},"spacing":{"padding":{"top":"2px","bottom":"2px","left":"12px","right":"12px"}},"typography":{"fontSize":"9px"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:9px"><a class="wp-block-button__link" style="border-top-left-radius:90px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:90px;padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">Контакты</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"100"}},"fontSize":"x-large"} -->
+<p class="has-x-large-font-size" style="font-style:italic;font-weight:100">Материалы для подготовки</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dtypography\u002d\u002dfont-size\u002d\u002dgigantic, clamp(2.75rem, 6vw, 3.25rem))","lineHeight":"0.5"}}} -->
+<h2 id="1" style="font-size:var(--wp--custom--typography--font-size--gigantic, clamp(2.75rem, 6vw, 3.25rem));line-height:0.5">1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"fontSize":"x-large"} -->
+<h3 class="has-x-large-font-size" id="pigeon"><em>Правители</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background" href="http://localhost/historyTest/?page_id=83&amp;preview=true">Читать</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Какое оружие самое мощное? Ядерное! А может на первый план выходят космические технологии или новейшие оборонные комплексы? Нет! Самое главное оружие это люди! История России это мужество, честь и отвага наших полководцев. Смекалка и грамотная тактика, вот что отличает представленных ниже героев.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"clamp(2.75rem, 6vw, 3.25rem)","lineHeight":"0.5"}}} -->
+<h2 id="2" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"fontSize":"x-large"} -->
+<h3 class="has-x-large-font-size" id="sparrow"><em>Литература</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background" href="http://localhost/historyTest/?page_id=134&amp;preview=true">Читать</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Россия может по праву гордиться своими писателями и поэтами. Ведь русские классики известны во всем мире, их произведения смогли коренным образом изменить мировоззрение миллионов читателей. Их творения не одно столетие вдохновляют людей на творчество. Читать российскую классику просто необходимо для полного понимания всей натуры души русского человека.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"clamp(2.75rem, 6vw, 3.25rem)","lineHeight":"0.5"}}} -->
+<h2 id="3" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"fontSize":"x-large"} -->
+<h3 class="has-x-large-font-size" id="falcon">Искусство</h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background" href="http://localhost/historyTest/?page_id=150&amp;preview=true">Читать</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>История русского искусства отражает бурную историю страны и ее географическое положение между Востоком и Западом. Постоянно возникают дискуссии по поводу его сущности: является ли оно своеобразным воплощением западноевропейских традиций или представляет собой совершенно оригинальный феномен. Несмотря на частые политические изменения и периодически возникающие сомнения в национальной самобытности, русское художественное творчество имеет ряд отличительных черт, таких, как яркий колорит, асимметрия форм и склонность то к реализму, то к абстракции.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
